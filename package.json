@@ -1,0 +1,14 @@
+{
+  "name": "@caspiancoders/media-query-condition-comparator",
+  "version": "1.0.0",
+  "description": "Used to compare CSS media query conditions in order to sort media query statements in a stylesheet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Amir Mahdi Khorshidi",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^7.0.1"
+  }
+}
